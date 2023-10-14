@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exa1</string>
+    <string name="hello_blank_fragment">Hola fragmento vacio</string>
+    <string name="convert">Convertir</string>
+    <string name="enter_the_amount_to_exchange_pesos">Ingrese la cantidad a cambiar (Pesos):</string>
+    <string name="result">Resultado:</string>
+    <string name="pesos_dollars">Pesos - Dolares</string>
+    <string name="convert2">Convertir:</string>
+    <string name="enter_the_amount_to_exchange_pesos2">Ingrese la cantidad a cambiar (Pesos):</string>
+    <string name="result2">Resultado:</string>
+    <string name="pesos_euro">Pesos - Euro</string>
+    <string name="dollar">Dolares</string>
+    <string name="history">Historial</string>
+    <string name="dark_mode">Modo Oscuro</string>
+</resources>
